@@ -1,0 +1,21 @@
+23:25:23 **** Incremental Build of configuration Debug for project Blinky ****
+make -j5 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F446xx -DDEBUG -c -I../Inc -I../Drivers/CMSIS/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+../Src/main.c: In function 'main':
+../Src/main.c:70:19: warning: unused variable 'Init_LED' [-Wunused-variable]
+  GPIO_InitTypeDef Init_LED;
+                   ^~~~~~~~
+arm-none-eabi-gcc -o "Blinky.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/Blinky/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Blinky.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Blinky.elf
+ 
+arm-none-eabi-objdump -h -S  Blinky.elf  > "Blinky.list"
+arm-none-eabi-size   Blinky.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5124	     20	   1572	   6716	   1a3c	Blinky.elf
+Finished building: default.size.stdout
+ 
+Finished building: Blinky.list
+ 
+
+23:25:23 Build Finished. 0 errors, 1 warnings. (took 399ms)
+
