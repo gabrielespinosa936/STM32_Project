@@ -8784,3 +8784,263 @@
 2020-02-20 21:45:24,446 [INFO] ProjectBuilder:2595 - Time for Generating toolchain IDE Files: 1962mS.
 2020-02-20 21:45:24,447 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
 2020-02-20 21:45:24,448 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
+2020-02-20 21:55:51,543 [INFO] ParamManager:955 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2020-02-20 21:55:51,562 [INFO] ParamManager:955 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2020-02-20 21:55:51,570 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,749 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,749 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,749 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,749 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,749 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,749 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,750 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:55:51,785 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,089 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,089 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,089 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,089 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,089 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,090 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:17,124 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:44,962 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,609x418,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-02-20 21:56:55,185 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,185 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,186 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,187 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,187 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:56:55,219 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,890 [INFO] ParamManager:955 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,892 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,893 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:21,900 [INFO] ParamManager:955 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2020-02-20 21:57:21,907 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,094 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,094 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,094 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,095 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:22,128 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,191 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,191 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,191 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,191 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,192 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,232 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,362 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,362 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,362 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,362 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,363 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:57:59,398 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,272 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,272 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,272 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,272 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,272 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,273 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,306 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,405 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,405 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,405 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,406 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 21:58:14,439 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,107 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,132 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,132 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,132 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,133 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,133 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,133 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,133 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,133 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,134 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,134 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,134 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,134 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,134 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,167 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,301 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,302 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,302 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,302 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,302 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,302 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:31,334 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,254 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,255 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,255 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,255 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,255 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,255 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,288 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,424 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,425 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:34,459 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-20 22:00:43,761 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 659244496 Bytes (958398464)
+2020-02-20 22:00:47,647 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 667633104 Bytes (958398464)
+2020-02-20 22:00:47,797 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 683888080 Bytes (958398464)
+2020-02-20 22:00:47,939 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: SYS
+2020-02-20 22:00:47,939 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: ADC
+2020-02-20 22:00:47,939 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: RCC
+2020-02-20 22:00:47,939 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: USB_OTG_FS
+2020-02-20 22:00:47,939 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: NVIC
+2020-02-20 22:00:47,939 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: USART
+2020-02-20 22:00:47,940 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: GPIO
+2020-02-20 22:00:47,940 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: ETH
+2020-02-20 22:00:47,940 [INFO] CodeGenerator:601 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db/
+2020-02-20 22:00:48,137 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/license.tmp_save
+2020-02-20 22:00:48,175 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/license.tmp
+2020-02-20 22:00:48,196 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/gpio.tmp_save
+2020-02-20 22:00:48,239 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/gpio.tmp
+2020-02-20 22:00:48,365 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-20 22:00:48,365 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for ADC
+2020-02-20 22:00:48,366 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-20 22:00:48,366 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-20 22:00:48,366 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for CORTEX_M7
+2020-02-20 22:00:48,367 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-20 22:00:48,370 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/cortex.tmp_save
+2020-02-20 22:00:48,407 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/cortex.tmp
+2020-02-20 22:00:48,408 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-20 22:00:48,408 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for ETH
+2020-02-20 22:00:48,408 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-20 22:00:48,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-20 22:00:48,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-02-20 22:00:48,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-20 22:00:48,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-20 22:00:48,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USB_OTG
+2020-02-20 22:00:48,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-20 22:00:48,411 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-02-20 22:00:48,411 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-20 22:00:48,414 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Src/stm32f7xx_it.c_save
+2020-02-20 22:00:48,466 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Src/stm32f7xx_it.c
+2020-02-20 22:00:48,469 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Inc/stm32f7xx_it.h_save
+2020-02-20 22:00:48,509 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Inc/stm32f7xx_it.h
+2020-02-20 22:00:48,514 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Src/stm32f7xx_hal_msp.c_save
+2020-02-20 22:00:48,585 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Src/stm32f7xx_hal_msp.c
+2020-02-20 22:00:48,588 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/system.tmp_save
+2020-02-20 22:00:48,625 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/MXTmpFiles/system.tmp
+2020-02-20 22:00:48,628 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Inc/stm32f7xx_hal_conf.h_save
+2020-02-20 22:00:48,672 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Inc/stm32f7xx_hal_conf.h
+2020-02-20 22:00:48,679 [WARN] IPConfigManager:2706 - IP not found : USB_OTG
+2020-02-20 22:00:48,679 [WARN] IPConfigManager:2706 - IP not found : gpio
+2020-02-20 22:00:48,679 [WARN] CodeGenerator:2776 - IP not found : USB_OTG
+2020-02-20 22:00:48,679 [WARN] CodeGenerator:2776 - IP not found : gpio
+2020-02-20 22:00:48,682 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Inc/main.h_save
+2020-02-20 22:00:48,725 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Inc/main.h
+2020-02-20 22:00:48,728 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Src/main.c_save
+2020-02-20 22:00:48,798 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.0.1/ADC_DMA_Test/Core/Src/main.c
+2020-02-20 22:00:49,398 [INFO] ProjectBuilder:1843 - Time for Copy HAL[1] : 195mS.
+2020-02-20 22:00:49,400 [INFO] ProjectBuilder:2428 - Project Generator version: 3.6.0
+2020-02-20 22:00:49,554 [INFO] ConfigFileManager:1043 - The Die is : DIE449
+2020-02-20 22:00:50,143 [INFO] ProjectBuilder:2595 - Time for Generating toolchain IDE Files: 743mS.
+2020-02-20 22:00:50,143 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
+2020-02-20 22:00:50,144 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
