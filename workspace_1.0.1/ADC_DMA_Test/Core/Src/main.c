@@ -122,19 +122,22 @@ int main(void)
   {
     /* USER CODE END WHILE */
 
-	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_10, GPIO_PIN_SET);
+//	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_10, GPIO_PIN_SET);
+//
+//	  HAL_ADC_Start(&hadc1);
+//	  HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
+//	  rawData = HAL_ADC_GetValue(&hadc1);
+//
+//	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_10, GPIO_PIN_RESET);
+//
+//	  sprintf(storeMessage, "%hu\r\n", rawData);
+//	  HAL_UART_Transmit(&huart3, (uint8_t*)storeMessage, strlen(storeMessage), HAL_MAX_DELAY);
+//
+//
+//	  HAL_Delay(1);
 
-	  HAL_ADC_Start(&hadc1);
-	  HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
-	  rawData = HAL_ADC_GetValue(&hadc1);
-
-	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_10, GPIO_PIN_RESET);
-
-	  sprintf(storeMessage, "%hu\r\n", rawData);
-	  HAL_UART_Transmit(&huart3, (uint8_t*)storeMessage, strlen(storeMessage), HAL_MAX_DELAY);
-
-
-	  HAL_Delay(1);
+	  HAL_GPIO_TogglePin(GPIOB,LD1_Pin);
+	  HAL_Delay(1000);
 
 
 

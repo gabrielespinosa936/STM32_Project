@@ -32,6 +32,9 @@ default.size.stdout \
 OBJDUMP_LIST += \
 Sine_Wave.list \
 
+OBJCOPY_BIN += \
+Sine_Wave.bin \
+
 
 # All Target
 all: Sine_Wave.elf secondary-outputs
@@ -52,12 +55,17 @@ Sine_Wave.list: $(EXECUTABLES)
 	@echo 'Finished building: $@'
 	@echo ' '
 
+Sine_Wave.bin: $(EXECUTABLES)
+	arm-none-eabi-objcopy  -O binary $(EXECUTABLES) "Sine_Wave.bin"
+	@echo 'Finished building: $@'
+	@echo ' '
+
 # Other Targets
 clean:
 	-$(RM) *
 	-@echo ' '
 
-secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST)
+secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST) $(OBJCOPY_BIN)
 
 .PHONY: all clean dependents
 .SECONDARY:
