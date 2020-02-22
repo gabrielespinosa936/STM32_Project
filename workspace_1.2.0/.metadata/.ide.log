@@ -1449,3 +1449,76 @@
 2020-02-21 23:35:12,533 [INFO] ProjectBuilder:2595 - Time for Generating toolchain IDE Files: 805mS.
 2020-02-21 23:35:12,533 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
 2020-02-21 23:35:12,534 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
+2020-02-22 08:33:52,931 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,950 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,950 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,951 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,951 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,951 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,952 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,952 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,952 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,953 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,953 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,953 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,953 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:52,953 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 08:33:53,027 [INFO] ADCParametersView:101 -                Rank 1 : false
+2020-02-22 09:06:04,509 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 536996928 Bytes (781189120)
+2020-02-22 09:06:04,895 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 588899392 Bytes (781189120)
+2020-02-22 09:06:05,012 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: SYS
+2020-02-22 09:06:05,013 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: ADC
+2020-02-22 09:06:05,013 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: RCC
+2020-02-22 09:06:05,013 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: USB_OTG_FS
+2020-02-22 09:06:05,013 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: NVIC
+2020-02-22 09:06:05,013 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: DMA
+2020-02-22 09:06:05,013 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: GPIO
+2020-02-22 09:06:05,014 [INFO] CodeGenerator:601 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db/
+2020-02-22 09:06:05,231 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/license.tmp_save
+2020-02-22 09:06:05,275 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/license.tmp
+2020-02-22 09:06:05,306 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/gpio.tmp_save
+2020-02-22 09:06:05,351 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/gpio.tmp
+2020-02-22 09:06:05,443 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-22 09:06:05,444 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for ADC
+2020-02-22 09:06:05,444 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-22 09:06:05,444 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-22 09:06:05,444 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for CORTEX_M7
+2020-02-22 09:06:05,445 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-22 09:06:05,447 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/cortex.tmp_save
+2020-02-22 09:06:05,484 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/cortex.tmp
+2020-02-22 09:06:05,485 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-22 09:06:05,485 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for DMA
+2020-02-22 09:06:05,485 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-22 09:06:05,497 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/dma.tmp_save
+2020-02-22 09:06:05,536 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/dma.tmp
+2020-02-22 09:06:05,539 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/dma_GV.tmp_save
+2020-02-22 09:06:05,575 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/dma_GV.tmp
+2020-02-22 09:06:05,576 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-02-22 09:06:05,576 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USB_OTG
+2020-02-22 09:06:05,576 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-22 09:06:05,577 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-02-22 09:06:05,577 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-02-22 09:06:05,581 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Src/stm32f7xx_it.c_save
+2020-02-22 09:06:05,639 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Src/stm32f7xx_it.c
+2020-02-22 09:06:05,641 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Inc/stm32f7xx_it.h_save
+2020-02-22 09:06:05,681 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Inc/stm32f7xx_it.h
+2020-02-22 09:06:05,687 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Src/stm32f7xx_hal_msp.c_save
+2020-02-22 09:06:05,753 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Src/stm32f7xx_hal_msp.c
+2020-02-22 09:06:05,755 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/system.tmp_save
+2020-02-22 09:06:05,793 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/MXTmpFiles/system.tmp
+2020-02-22 09:06:05,797 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Inc/stm32f7xx_hal_conf.h_save
+2020-02-22 09:06:05,843 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Inc/stm32f7xx_hal_conf.h
+2020-02-22 09:06:05,850 [WARN] IPConfigManager:2706 - IP not found : USB_OTG
+2020-02-22 09:06:05,851 [WARN] IPConfigManager:2706 - IP not found : gpio
+2020-02-22 09:06:05,851 [WARN] CodeGenerator:2776 - IP not found : USB_OTG
+2020-02-22 09:06:05,851 [WARN] CodeGenerator:2776 - IP not found : gpio
+2020-02-22 09:06:05,854 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Inc/main.h_save
+2020-02-22 09:06:05,896 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Inc/main.h
+2020-02-22 09:06:05,901 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Src/main.c_save
+2020-02-22 09:06:05,970 [INFO] CodeEngine:211 - Generated code: /Users/gabrielespinosa/STM32CubeIDE/workspace_1.2.0/DMA_Test/Core/Src/main.c
+2020-02-22 09:06:06,659 [INFO] ProjectBuilder:1843 - Time for Copy HAL[1] : 236mS.
+2020-02-22 09:06:06,660 [INFO] ProjectBuilder:2428 - Project Generator version: 3.6.0
+2020-02-22 09:06:06,835 [INFO] ConfigFileManager:1043 - The Die is : DIE449
+2020-02-22 09:06:07,712 [INFO] ProjectBuilder:2595 - Time for Generating toolchain IDE Files: 1052mS.
+2020-02-22 09:06:07,712 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
+2020-02-22 09:06:07,713 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
